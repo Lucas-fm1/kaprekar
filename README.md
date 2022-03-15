@@ -10,7 +10,4 @@ This number was analysed by the indian mathematician Dattatreya Ramchandra Kapre
 
 at some point, the number 6174 will be reached, and happens that this process can't go any further. That means, if you do the rotine again, it will give the same result:
 
-  7641
- -1467
- ______
-  6174
+  7641 - 1467 = 6174
