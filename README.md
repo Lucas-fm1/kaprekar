@@ -12,6 +12,6 @@ at some point, the number 6174 will be reached, and happens that this process ca
 
   7641 - 1467 = 6174
 
-There is also a 3-digit version of the Kaprekar's constant, witch is the number 495. For illustrative porpuses, in can be shown that:
+There is also a 3-digit version of the Kaprekar's constant, witch is the number 495. For illustrative porpuses:
 
   954 - 459 = 495
