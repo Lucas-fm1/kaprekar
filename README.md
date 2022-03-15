@@ -11,3 +11,7 @@ This number was analysed by the indian mathematician Dattatreya Ramchandra Kapre
 at some point, the number 6174 will be reached, and happens that this process can't go any further. That means, if you do the rotine again, it will give the same result:
 
   7641 - 1467 = 6174
+
+There is also a 3-digit version of the Kaprekar's constant, witch is the number 495. For illustrative porpuses, in can be shown that:
+
+  954 - 459 = 495
