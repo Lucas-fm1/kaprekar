@@ -1,6 +1,6 @@
 # Constant of Kaprekar
 
-A program witch makes the Kaprekar's rotine for a number given by the user. 
+A program which makes the Kaprekar's rotine for a number given by the user. 
 
 This number was analysed by the indian mathematician Dattatreya Ramchandra Kaprekar, or D. R. Kaprekar. He noticed that, if you take any 4-digit number, not all being the same (leading zeros are allowed) and obey the following process: 
 
